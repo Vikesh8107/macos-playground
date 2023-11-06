@@ -2,31 +2,25 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/) and bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I'm currently pursuing a B.Tech in [Computer Science](https://www.bennett.edu.in/) at [Bennett University](https://www.bennett.edu.in/) My academic journey is focused on exploring the dynamic field of computer science and engineering.
 
-I'm trying to find a balance between research and engineering.
+I'm a Full Stack App and Blockchain Developer 
 
-My current research interests lie primarily in understanding and improving continuity, generalizability, efficiency and other key properties of machine learning. I am also interested in vision-language and video models.
+with a passion for creating innovative and secure digital solutions. 
 
-I'm also learning web development and building machine learning softwares and systems.
+I thrive on bridging the gap between front-end and back-end development while exploring the endless possibilities of blockchain technology. My mission is to craft user-friendly applications and implement blockchain solutions that transform how we interact with technology
 
 
 ## Contact
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.io](https://zxh.io)
+- Email: [vikeshlaharpure@gmail.com](mailto:vikeshlaharpure@gmail.com)
+- Github: [@Vikesh8107](https://github.com/Vikesh8107)
+- Linkedin: [Vikesh Laharpure](https://www.linkedin.com/in/vikesh-laharpure-925a04263)
+- Personal Website: [Vikesh.io](https://vikeshhhh.vercel.app)
 
 
-## Résumé
+## Resume
 
-- Normal version: [English](https://zxh.io/files/cv/en.pdf) / [中文](https://zxh.io/files/cv/cn.pdf)
-
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.io](https://portfolio.zxh.io) / [resume.zxh.io](https://resume.zxh.io)
+- Normal version: [English](https://drive.google.com/file/d/1q2j98VoFZkOUI8moeneZNT9gInNd-MaH/view)
